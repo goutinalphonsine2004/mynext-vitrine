@@ -73,7 +73,7 @@ background: 'linear-gradient(135deg, #141e30 0%, #243b55 33%, #4a148c 66%, #7b1f
                onClick={tooglemenu}
                className="hover:text-fuchsia-300 transition-colors"
              >
-               Service
+               Services
              </Link>
              <Link 
                href="/contact" 
