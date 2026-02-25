@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+.stylecard {
+  background-color:rgb(53, 31, 89);
+  border: 1px solid rgb(148, 102, 200);
+  border-radius: 10px;
+  padding: 1.75rem;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+}
+
+
+
